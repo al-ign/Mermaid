@@ -1,5 +1,5 @@
 ```mermaid
-graph
+graph TD
 subgraph bottle
 WhyNot --> Cap
 WhyNot --> Bottom
